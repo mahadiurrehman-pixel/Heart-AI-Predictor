@@ -33,7 +33,10 @@ Streamlit Deployment
 ```
 
 ---
+## Live Demo 
 
+Link:https://heart-ai-predictor-mahadi.streamlit.app/
+---
 ## 📸 Application Preview
 
 The application allows users to enter patient health information and receive an ML-based risk prediction.
