@@ -35,7 +35,9 @@ Streamlit Deployment
 ---
 ## Live Demo 
 
-Link:https://heart-ai-predictor-mahadi.streamlit.app/
+**Link:**  **https://heart-ai-predictor-mahadi.streamlit.app/**
+
+
 ---
 ## 📸 Application Preview
 
