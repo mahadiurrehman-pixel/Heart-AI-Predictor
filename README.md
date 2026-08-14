@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 > A Machine Learning based Heart Disease Risk Prediction System that analyzes clinical patient data and predicts heart disease risk using a K-Nearest Neighbors (KNN) classifier with a Streamlit web interface.
-
+ 
 ---
 
 ## 🚀 Overview
